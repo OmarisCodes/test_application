@@ -1,0 +1,14 @@
+﻿1,2,Oh no! Your dog ran into the maze! What will you do?
+2,6,You ran after it
+6,7,You have entered the maze of secrets
+7,9,You have reached a crossroads do you go left or right
+9,10,Right you venture further into the maze and hear the roaring of a beast the mintoaure has appeared!
+10,11,You hitthe minotuare and deal .. Damage
+11,14,You have defeated the minotaur although exhausted you must push forwared left or right?
+14,18,What is this? You see a pond within the maze and in the center of this pondis a mermaide! What will you do?
+18,21,Befriend. You befriended the mermaid
+21,22,Boss fight phoenix
+22,23,Fight the phoenix defeated
+23,26,wizard appears
+26,27,Fight … you defeated
+27,30,You won!
